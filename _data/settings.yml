@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'AI detecting<br> whether safety equipment is<br> worn at construction sites',   url: 'proj-1'}
+- {name: 'AI service detecting<br> whether safety equipment is<br> worn at construction sites',   url: 'proj-1'}
 - {name: 'Effective unmanned delivery integrated management system based on substitute<br> (In progress...)',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
