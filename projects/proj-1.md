@@ -1,8 +1,13 @@
 ---
 layout: post
-title: 'Project One'
+title: 'AI detecting whether safety equipment is worn at construction sites'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+
+According to the number of construction site accidents does not decrease, 
+the project was carried out with the aim of improving workers' fundamental safety awareness 
+through artificial intelligence programs.
+This project was implemented using YOLO v3, and objects are recognized only for classes to be classified at the construction site. Currently, there are people, trucks, safety helmets, and safety vests on the object list, which will be updated later.
+It can be used as a recognition program where wearing safety equipment is mandatory. If the difference in the accident rate depending on the use of the recognition program is visible at the site, statistics based on this are expected to improve related system maintenance and on-site safety awareness for mandatory.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
