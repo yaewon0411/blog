@@ -6,4 +6,8 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+
+제 [이메일](yaewon0411@naver.com)을 남깁니다<br>
+질문이나 소식을 전하고 싶으신 분은 메일을 보내주세요
+
+
