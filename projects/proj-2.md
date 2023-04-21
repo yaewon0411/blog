@@ -1,8 +1,15 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Effective unmanned delivery integrated management system based on substitute<br> (In progress...)'
 ---
+ This project aims to provide simple and efficient services through a computerized unmanned courier integrated management
+system in place where space and cost burden are incurred to install unmanned delivery boxes.
+The application function is largely composed of a notification system and a management system.
+The notification system provides a notification informing the recipient that there is a courier to receive.
+The management system provides management functions for receiving and returning packages and is used by all recipients, couriers, and agents. 
+ In addition, it provides a function to prevent incorrect receipt through a face capture system.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-2/project2_image.png" %}
