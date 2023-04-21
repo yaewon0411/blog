@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI detecting whether safety equipment is worn at construction sites'
+title: 'AI service detecting whether safety equipment is worn at construction sites'
 ---
 
 According to the number of construction site accidents does not decrease, 
