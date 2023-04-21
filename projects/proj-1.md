@@ -12,4 +12,6 @@ It can be used as a recognition program where wearing safety equipment is mandat
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/yolo_image1.png" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/pro1_image.png" %}
+
+
