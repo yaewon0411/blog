@@ -20,14 +20,15 @@ permalink: /about
 --- 
 ## Experience
 
-* 
+* 2022 제 4회 스마트SW·AI 경진대회 우수상
 
 ___
 
 ## Education
 
-* 2021.03~
- 제주대학교 컴퓨터공학과
+* 2021.03~ Jeju National University <br>(eg. Computer Engineering)
+* 2022.07~2022.08 Auckland University of Technology<br> (eg. SW English class)
+
 
 
 
