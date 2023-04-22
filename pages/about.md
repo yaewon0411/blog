@@ -20,7 +20,8 @@ permalink: /about
 --- 
 ## Experience
 
-* 2022 제 4회 스마트SW·AI 경진대회 우수상
+* 2022 The 4th Smart SW AI Contest, Excellence Award
+* 2022 Autonomous Drone Competition, Excellence Award
 
 ___
 
