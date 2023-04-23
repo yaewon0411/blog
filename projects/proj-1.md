@@ -20,8 +20,3 @@ It can be used as a recognition program where wearing safety equipment is mandat
 
 
 <!--http://www.gratisography.com-->
-<!--
-[권혁원] [오전 1:59] ![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-1/yolo_image1.png){: width="615" height="810"}<br>
-![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-1/pro1_yolo_progress.png){: width="751" height="427"}<br>
-![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-1/pro1_image.png){: width="615" height="710"}
--->
