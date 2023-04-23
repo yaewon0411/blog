@@ -2,6 +2,7 @@
 layout: post
 title: 'AI service detecting whether safety equipment is worn at construction sites'
 ---
+- team member : yaewon-An, yuhyang-Hong
 
 According to the number of construction site accidents does not decrease, 
 the project was carried out with the aim of improving workers' fundamental safety awareness 

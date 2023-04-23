@@ -27,7 +27,6 @@ permalink: /about
 
 * 2022 The 4th Smart SW AI Contest, **Excellence Award**
 <br>- AI service detecting whether safety equipment is worn at construction sites
-<br>(co-author : yaewon An, yuhyang Hong)
 * 2022 Autonomous Drone Competition, **Excellence Award**
 
 ___
