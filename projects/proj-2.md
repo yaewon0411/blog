@@ -10,6 +10,6 @@ The management system provides management functions for receiving and returning 
  In addition, it provides a function to prevent incorrect receipt through a face capture system.
 
 
+![alt](/assets/img/projects/proj-2/project2_image.png){: width="580" height="650"}
 
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/project2_image.png" %}
+<!--{% include image.html url="" image="projects/proj-2/project2_image.png" %}-->

@@ -10,8 +10,13 @@ This project was implemented using YOLO v3, and objects are recognized only for 
 It can be used as a recognition program where wearing safety equipment is mandatory. If the difference in the accident rate depending on the use of the recognition program is visible at the site, statistics based on this are expected to improve related system maintenance and on-site safety awareness for mandatory.
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/yolo_image1.png" %}
+![alt](/assets/img/projects/proj-1/yolo_image1.png){: width="615" height="810"}
+![alt](/assets/img/projects/proj-1/pro1_yolo_progress.png){: width="751" height="427"}
+![alt](/assets/img/projects/proj-1/pro1_image.png){: width="615" height="710"}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/pro1_image.png" %}
+<!--{% include image.html url="" image="projects/proj-1/yolo_image1.png" %}-->
+
+<!--{% include image.html url="" image="projects/proj-1/pro1_image.png" %}-->
 
 
+<!--http://www.gratisography.com-->

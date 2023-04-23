@@ -27,6 +27,7 @@ permalink: /about
 
 * 2022 The 4th Smart SW AI Contest, **Excellence Award**
 <br>- AI service detecting whether safety equipment is worn at construction sites
+<br>(co-author : yaewon An, yuhyang Hong)
 * 2022 Autonomous Drone Competition, **Excellence Award**
 
 ___
@@ -40,7 +41,7 @@ ___
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-
+---
 ## Education
 
 * 2021.03~ Jeju National University <br>(eg. Computer Engineering)
