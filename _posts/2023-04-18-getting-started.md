@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "깃 블로그 시작"
