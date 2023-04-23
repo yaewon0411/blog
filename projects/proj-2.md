@@ -11,5 +11,5 @@ The management system provides management functions for receiving and returning 
 
 
 ![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/project2_image.png){: width="580" height="650"}
-
+![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/pro2_img.png)
 <!--{% include image.html url="" image="projects/proj-2/project2_image.png" %}-->
