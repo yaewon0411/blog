@@ -13,6 +13,8 @@ The management system provides management functions for receiving and returning 
 
 
 ![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/project2_image.png){: width="580" height="650"}<br>
-![result_4](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/gif1.gif)<br>
-![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/pro2_img2.png)
+![result_4](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/gif1.gif)&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/gif2.gif)
 

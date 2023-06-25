@@ -10,7 +10,6 @@ permalink: /about
 ## Introduce
 
 #### yaewon An
-![alt](profile.jpg){: width="300" height="300"}
 
 
 컴퓨터공학과 학부생으로 3학년에 재학 중입니다.<br>
