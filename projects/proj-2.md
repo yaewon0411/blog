@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Effective unmanned delivery integrated management system based on substitute<br> (In progress...)'
+title: 'Effective unmanned delivery integrated management system based on substitute'
 ---
 - team member : yaewon-An, hyukwon-Kwon
 
@@ -13,6 +13,6 @@ The management system provides management functions for receiving and returning 
 
 
 ![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/project2_image.png){: width="580" height="650"}<br>
-![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/pro2_img.png)<br>
+![result_4](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/gif1.gif)<br>
 ![alt](https://yaewon0411.github.io/blog/assets/img/projects/proj-2/pro2_img2.png)
 
